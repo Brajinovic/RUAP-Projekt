@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Pozdrav iz aplikacije od Ivan Brajinović.");
-	printf("Hello world!");
+
+	printf("Pozdrav iz aplikacije od Ivan Brajinović");
 	return 0;
 }
